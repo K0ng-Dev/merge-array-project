@@ -1,3 +1,5 @@
+// src/index.ts
+
 import { merge } from './merge';
 
 const collection_1: number[] = [1, 6, 9];
